@@ -1,0 +1,733 @@
+Episode: 0 | Episode reward: 9.0 | Mean of last 100 episodes: 9.0 | eps: 1.0
+Acheived the max score possible for an episode!
+Achieved a better mean of 9.0!
+Episode: 1 | Episode reward: 10.0 | Mean of last 100 episodes: 9.5 | eps: 1.0
+Acheived the max score possible for an episode!
+Achieved a better mean of 9.5!
+Episode: 2 | Episode reward: 17.0 | Mean of last 100 episodes: 12.0 | eps: 1.0
+Acheived the max score possible for an episode!
+Achieved a better mean of 12.0!
+Episode: 3 | Episode reward: 27.0 | Mean of last 100 episodes: 15.8 | eps: 1.0
+Acheived the max score possible for an episode!
+Achieved a better mean of 15.8!
+Episode: 4 | Episode reward: 16.0 | Mean of last 100 episodes: 15.8 | eps: 1.0
+Episode: 5 | Episode reward: 10.0 | Mean of last 100 episodes: 14.8 | eps: 1.0
+Episode: 6 | Episode reward: 16.0 | Mean of last 100 episodes: 15.0 | eps: 1.0
+Episode: 7 | Episode reward: 13.0 | Mean of last 100 episodes: 14.8 | eps: 1.0
+Episode: 8 | Episode reward: 14.0 | Mean of last 100 episodes: 14.7 | eps: 1.0
+Episode: 9 | Episode reward: 9.0 | Mean of last 100 episodes: 14.1 | eps: 1.0
+Episode: 10 | Episode reward: 20.0 | Mean of last 100 episodes: 14.6 | eps: 1.0
+Episode: 11 | Episode reward: 33.0 | Mean of last 100 episodes: 16.2 | eps: 1.0
+Acheived the max score possible for an episode!
+Achieved a better mean of 16.2!
+Episode: 12 | Episode reward: 31.0 | Mean of last 100 episodes: 17.3 | eps: 1.0
+Achieved a better mean of 17.3!
+Episode: 13 | Episode reward: 16.0 | Mean of last 100 episodes: 17.2 | eps: 1.0
+Episode: 14 | Episode reward: 14.0 | Mean of last 100 episodes: 17.0 | eps: 1.0
+Episode: 15 | Episode reward: 12.0 | Mean of last 100 episodes: 16.7 | eps: 1.0
+Episode: 16 | Episode reward: 18.0 | Mean of last 100 episodes: 16.8 | eps: 1.0
+Episode: 17 | Episode reward: 22.0 | Mean of last 100 episodes: 17.1 | eps: 1.0
+Episode: 18 | Episode reward: 14.0 | Mean of last 100 episodes: 16.9 | eps: 1.0
+Episode: 19 | Episode reward: 18.0 | Mean of last 100 episodes: 17.0 | eps: 1.0
+Episode: 20 | Episode reward: 16.0 | Mean of last 100 episodes: 16.9 | eps: 1.0
+Episode: 21 | Episode reward: 22.0 | Mean of last 100 episodes: 17.1 | eps: 1.0
+Episode: 22 | Episode reward: 6.0 | Mean of last 100 episodes: 16.7 | eps: 1.0
+Episode: 23 | Episode reward: 8.0 | Mean of last 100 episodes: 16.3 | eps: 1.0
+Episode: 24 | Episode reward: 9.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 25 | Episode reward: 17.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 26 | Episode reward: 18.0 | Mean of last 100 episodes: 16.1 | eps: 1.0
+Episode: 27 | Episode reward: 10.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 28 | Episode reward: 17.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 29 | Episode reward: 10.0 | Mean of last 100 episodes: 15.7 | eps: 1.0
+Episode: 30 | Episode reward: 11.0 | Mean of last 100 episodes: 15.6 | eps: 1.0
+Episode: 31 | Episode reward: 14.0 | Mean of last 100 episodes: 15.5 | eps: 1.0
+Episode: 32 | Episode reward: 22.0 | Mean of last 100 episodes: 15.7 | eps: 1.0
+Episode: 33 | Episode reward: 8.0 | Mean of last 100 episodes: 15.5 | eps: 1.0
+Episode: 34 | Episode reward: 44.0 | Mean of last 100 episodes: 16.3 | eps: 1.0
+Acheived the max score possible for an episode!
+Episode: 35 | Episode reward: 15.0 | Mean of last 100 episodes: 16.3 | eps: 1.0
+Episode: 36 | Episode reward: 24.0 | Mean of last 100 episodes: 16.5 | eps: 1.0
+Episode: 37 | Episode reward: 7.0 | Mean of last 100 episodes: 16.2 | eps: 1.0
+Episode: 38 | Episode reward: 13.0 | Mean of last 100 episodes: 16.2 | eps: 1.0
+Episode: 39 | Episode reward: 15.0 | Mean of last 100 episodes: 16.1 | eps: 1.0
+Episode: 40 | Episode reward: 14.0 | Mean of last 100 episodes: 16.1 | eps: 1.0
+Episode: 41 | Episode reward: 8.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 42 | Episode reward: 17.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 43 | Episode reward: 28.0 | Mean of last 100 episodes: 16.2 | eps: 1.0
+Episode: 44 | Episode reward: 10.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 45 | Episode reward: 13.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 46 | Episode reward: 15.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 47 | Episode reward: 13.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 48 | Episode reward: 23.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 49 | Episode reward: 12.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 50 | Episode reward: 10.0 | Mean of last 100 episodes: 15.8 | eps: 1.0
+Episode: 51 | Episode reward: 11.0 | Mean of last 100 episodes: 15.8 | eps: 1.0
+Episode: 52 | Episode reward: 8.0 | Mean of last 100 episodes: 15.6 | eps: 1.0
+Episode: 53 | Episode reward: 16.0 | Mean of last 100 episodes: 15.6 | eps: 1.0
+Episode: 54 | Episode reward: 18.0 | Mean of last 100 episodes: 15.7 | eps: 1.0
+Episode: 55 | Episode reward: 28.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 56 | Episode reward: 8.0 | Mean of last 100 episodes: 15.7 | eps: 1.0
+Episode: 57 | Episode reward: 17.0 | Mean of last 100 episodes: 15.8 | eps: 1.0
+Episode: 58 | Episode reward: 39.0 | Mean of last 100 episodes: 16.2 | eps: 1.0
+Episode: 59 | Episode reward: 13.0 | Mean of last 100 episodes: 16.1 | eps: 1.0
+Episode: 60 | Episode reward: 10.0 | Mean of last 100 episodes: 16.0 | eps: 1.0
+Episode: 61 | Episode reward: 11.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 62 | Episode reward: 16.0 | Mean of last 100 episodes: 15.9 | eps: 1.0
+Episode: 63 | Episode reward: 13.0 | Mean of last 100 episodes: 15.9 | eps: 0.99
+Episode: 64 | Episode reward: 19.0 | Mean of last 100 episodes: 15.9 | eps: 0.97
+Episode: 65 | Episode reward: 7.0 | Mean of last 100 episodes: 15.8 | eps: 0.96
+Episode: 66 | Episode reward: 8.0 | Mean of last 100 episodes: 15.7 | eps: 0.96
+Episode: 67 | Episode reward: 15.0 | Mean of last 100 episodes: 15.7 | eps: 0.94
+Episode: 68 | Episode reward: 16.0 | Mean of last 100 episodes: 15.7 | eps: 0.93
+Episode: 69 | Episode reward: 12.0 | Mean of last 100 episodes: 15.6 | eps: 0.92
+Episode: 70 | Episode reward: 13.0 | Mean of last 100 episodes: 15.6 | eps: 0.91
+Episode: 71 | Episode reward: 11.0 | Mean of last 100 episodes: 15.5 | eps: 0.9
+Episode: 72 | Episode reward: 12.0 | Mean of last 100 episodes: 15.5 | eps: 0.89
+Episode: 73 | Episode reward: 13.0 | Mean of last 100 episodes: 15.4 | eps: 0.88
+Episode: 74 | Episode reward: 9.0 | Mean of last 100 episodes: 15.3 | eps: 0.87
+Episode: 75 | Episode reward: 13.0 | Mean of last 100 episodes: 15.3 | eps: 0.86
+Episode: 76 | Episode reward: 17.0 | Mean of last 100 episodes: 15.3 | eps: 0.85
+Episode: 77 | Episode reward: 8.0 | Mean of last 100 episodes: 15.2 | eps: 0.84
+Episode: 78 | Episode reward: 10.0 | Mean of last 100 episodes: 15.2 | eps: 0.83
+Episode: 79 | Episode reward: 16.0 | Mean of last 100 episodes: 15.2 | eps: 0.82
+Episode: 80 | Episode reward: 17.0 | Mean of last 100 episodes: 15.2 | eps: 0.81
+Episode: 81 | Episode reward: 10.0 | Mean of last 100 episodes: 15.1 | eps: 0.8
+Episode: 82 | Episode reward: 14.0 | Mean of last 100 episodes: 15.1 | eps: 0.79
+Episode: 83 | Episode reward: 12.0 | Mean of last 100 episodes: 15.1 | eps: 0.78
+Episode: 84 | Episode reward: 11.0 | Mean of last 100 episodes: 15.0 | eps: 0.77
+Episode: 85 | Episode reward: 14.0 | Mean of last 100 episodes: 15.0 | eps: 0.76
+Episode: 86 | Episode reward: 14.0 | Mean of last 100 episodes: 15.0 | eps: 0.75
+Episode: 87 | Episode reward: 12.0 | Mean of last 100 episodes: 15.0 | eps: 0.75
+Episode: 88 | Episode reward: 11.0 | Mean of last 100 episodes: 14.9 | eps: 0.74
+Episode: 89 | Episode reward: 17.0 | Mean of last 100 episodes: 15.0 | eps: 0.73
+Episode: 90 | Episode reward: 20.0 | Mean of last 100 episodes: 15.0 | eps: 0.71
+Episode: 91 | Episode reward: 24.0 | Mean of last 100 episodes: 15.1 | eps: 0.7
+Episode: 92 | Episode reward: 17.0 | Mean of last 100 episodes: 15.1 | eps: 0.69
+Episode: 93 | Episode reward: 13.0 | Mean of last 100 episodes: 15.1 | eps: 0.68
+Episode: 94 | Episode reward: 14.0 | Mean of last 100 episodes: 15.1 | eps: 0.67
+Episode: 95 | Episode reward: 17.0 | Mean of last 100 episodes: 15.1 | eps: 0.66
+Episode: 96 | Episode reward: 15.0 | Mean of last 100 episodes: 15.1 | eps: 0.65
+Episode: 97 | Episode reward: 22.0 | Mean of last 100 episodes: 15.2 | eps: 0.64
+Episode: 98 | Episode reward: 18.0 | Mean of last 100 episodes: 15.2 | eps: 0.62
+Episode: 99 | Episode reward: 8.0 | Mean of last 100 episodes: 15.2 | eps: 0.62
+Episode: 100 | Episode reward: 35.0 | Mean of last 100 episodes: 15.4 | eps: 0.6
+Episode: 101 | Episode reward: 27.0 | Mean of last 100 episodes: 15.6 | eps: 0.58
+Episode: 102 | Episode reward: 29.0 | Mean of last 100 episodes: 15.7 | eps: 0.57
+Episode: 103 | Episode reward: 10.0 | Mean of last 100 episodes: 15.5 | eps: 0.56
+Episode: 104 | Episode reward: 33.0 | Mean of last 100 episodes: 15.7 | eps: 0.55
+Episode: 105 | Episode reward: 39.0 | Mean of last 100 episodes: 16.0 | eps: 0.53
+Episode: 106 | Episode reward: 17.0 | Mean of last 100 episodes: 16.0 | eps: 0.52
+Episode: 107 | Episode reward: 34.0 | Mean of last 100 episodes: 16.2 | eps: 0.5
+Episode: 108 | Episode reward: 19.0 | Mean of last 100 episodes: 16.3 | eps: 0.49
+Episode: 109 | Episode reward: 55.0 | Mean of last 100 episodes: 16.7 | eps: 0.47
+Acheived the max score possible for an episode!
+Episode: 110 | Episode reward: 28.0 | Mean of last 100 episodes: 16.8 | eps: 0.45
+Episode: 111 | Episode reward: 37.0 | Mean of last 100 episodes: 16.8 | eps: 0.44
+Episode: 112 | Episode reward: 25.0 | Mean of last 100 episodes: 16.8 | eps: 0.43
+Episode: 113 | Episode reward: 47.0 | Mean of last 100 episodes: 17.1 | eps: 0.41
+Episode: 114 | Episode reward: 51.0 | Mean of last 100 episodes: 17.5 | eps: 0.39
+Achieved a better mean of 17.5!
+Episode: 115 | Episode reward: 121.0 | Mean of last 100 episodes: 18.6 | eps: 0.34
+Acheived the max score possible for an episode!
+Achieved a better mean of 18.6!
+Episode: 116 | Episode reward: 42.0 | Mean of last 100 episodes: 18.8 | eps: 0.33
+Achieved a better mean of 18.8!
+Episode: 117 | Episode reward: 36.0 | Mean of last 100 episodes: 18.9 | eps: 0.32
+Achieved a better mean of 18.9!
+Episode: 118 | Episode reward: 76.0 | Mean of last 100 episodes: 19.6 | eps: 0.3
+Achieved a better mean of 19.6!
+Episode: 119 | Episode reward: 145.0 | Mean of last 100 episodes: 20.8 | eps: 0.26
+Acheived the max score possible for an episode!
+Achieved a better mean of 20.8!
+Episode: 120 | Episode reward: 63.0 | Mean of last 100 episodes: 21.3 | eps: 0.24
+Achieved a better mean of 21.3!
+Episode: 121 | Episode reward: 36.0 | Mean of last 100 episodes: 21.4 | eps: 0.23
+Achieved a better mean of 21.4!
+Episode: 122 | Episode reward: 206.0 | Mean of last 100 episodes: 23.4 | eps: 0.19
+Acheived the max score possible for an episode!
+Achieved a better mean of 23.4!
+Episode: 123 | Episode reward: 92.0 | Mean of last 100 episodes: 24.3 | eps: 0.17
+Achieved a better mean of 24.3!
+Episode: 124 | Episode reward: 140.0 | Mean of last 100 episodes: 25.6 | eps: 0.15
+Achieved a better mean of 25.6!
+Episode: 125 | Episode reward: 114.0 | Mean of last 100 episodes: 26.6 | eps: 0.13
+Achieved a better mean of 26.6!
+Episode: 126 | Episode reward: 120.0 | Mean of last 100 episodes: 27.6 | eps: 0.12
+Achieved a better mean of 27.6!
+Episode: 127 | Episode reward: 173.0 | Mean of last 100 episodes: 29.2 | eps: 0.1
+Achieved a better mean of 29.2!
+Episode: 128 | Episode reward: 122.0 | Mean of last 100 episodes: 30.2 | eps: 0.089
+Achieved a better mean of 30.2!
+Episode: 129 | Episode reward: 108.0 | Mean of last 100 episodes: 31.2 | eps: 0.08
+Achieved a better mean of 31.2!
+Episode: 130 | Episode reward: 63.0 | Mean of last 100 episodes: 31.8 | eps: 0.075
+Achieved a better mean of 31.8!
+Episode: 131 | Episode reward: 112.0 | Mean of last 100 episodes: 32.7 | eps: 0.067
+Achieved a better mean of 32.7!
+Episode: 132 | Episode reward: 117.0 | Mean of last 100 episodes: 33.7 | eps: 0.06
+Achieved a better mean of 33.7!
+Episode: 133 | Episode reward: 115.0 | Mean of last 100 episodes: 34.8 | eps: 0.053
+Achieved a better mean of 34.8!
+Episode: 134 | Episode reward: 101.0 | Mean of last 100 episodes: 35.3 | eps: 0.048
+Achieved a better mean of 35.3!
+Episode: 135 | Episode reward: 186.0 | Mean of last 100 episodes: 37.0 | eps: 0.04
+Achieved a better mean of 37.0!
+Episode: 136 | Episode reward: 136.0 | Mean of last 100 episodes: 38.2 | eps: 0.035
+Achieved a better mean of 38.2!
+Episode: 137 | Episode reward: 160.0 | Mean of last 100 episodes: 39.7 | eps: 0.03
+Achieved a better mean of 39.7!
+Episode: 138 | Episode reward: 136.0 | Mean of last 100 episodes: 40.9 | eps: 0.026
+Achieved a better mean of 40.9!
+Episode: 139 | Episode reward: 151.0 | Mean of last 100 episodes: 42.3 | eps: 0.022
+Achieved a better mean of 42.3!
+Episode: 140 | Episode reward: 52.0 | Mean of last 100 episodes: 42.6 | eps: 0.021
+Achieved a better mean of 42.6!
+Episode: 141 | Episode reward: 203.0 | Mean of last 100 episodes: 44.6 | eps: 0.017
+Achieved a better mean of 44.6!
+Episode: 142 | Episode reward: 331.0 | Mean of last 100 episodes: 47.7 | eps: 0.013
+Acheived the max score possible for an episode!
+Achieved a better mean of 47.7!
+Episode: 143 | Episode reward: 288.0 | Mean of last 100 episodes: 50.3 | eps: 0.0094
+Achieved a better mean of 50.3!
+Episode: 144 | Episode reward: 168.0 | Mean of last 100 episodes: 51.9 | eps: 0.008
+Achieved a better mean of 51.9!
+Episode: 145 | Episode reward: 187.0 | Mean of last 100 episodes: 53.7 | eps: 0.0066
+Achieved a better mean of 53.7!
+Episode: 146 | Episode reward: 256.0 | Mean of last 100 episodes: 56.1 | eps: 0.0051
+Achieved a better mean of 56.1!
+Episode: 147 | Episode reward: 226.0 | Mean of last 100 episodes: 58.2 | eps: 0.0041
+Achieved a better mean of 58.2!
+Episode: 148 | Episode reward: 215.0 | Mean of last 100 episodes: 60.1 | eps: 0.0033
+Achieved a better mean of 60.1!
+Episode: 149 | Episode reward: 170.0 | Mean of last 100 episodes: 61.7 | eps: 0.0028
+Achieved a better mean of 61.7!
+Episode: 150 | Episode reward: 252.0 | Mean of last 100 episodes: 64.1 | eps: 0.0022
+Achieved a better mean of 64.1!
+Episode: 151 | Episode reward: 219.0 | Mean of last 100 episodes: 66.2 | eps: 0.0017
+Achieved a better mean of 66.2!
+Episode: 152 | Episode reward: 228.0 | Mean of last 100 episodes: 68.4 | eps: 0.0014
+Achieved a better mean of 68.4!
+Episode: 153 | Episode reward: 174.0 | Mean of last 100 episodes: 70.0 | eps: 0.0012
+Achieved a better mean of 70.0!
+Episode: 154 | Episode reward: 130.0 | Mean of last 100 episodes: 71.1 | eps: 0.001
+Achieved a better mean of 71.1!
+Episode: 155 | Episode reward: 148.0 | Mean of last 100 episodes: 72.3 | eps: 0.001
+Achieved a better mean of 72.3!
+Episode: 156 | Episode reward: 264.0 | Mean of last 100 episodes: 74.9 | eps: 0.001
+Achieved a better mean of 74.9!
+Episode: 157 | Episode reward: 264.0 | Mean of last 100 episodes: 77.3 | eps: 0.001
+Achieved a better mean of 77.3!
+Episode: 158 | Episode reward: 165.0 | Mean of last 100 episodes: 78.6 | eps: 0.001
+Achieved a better mean of 78.6!
+Episode: 159 | Episode reward: 204.0 | Mean of last 100 episodes: 80.5 | eps: 0.001
+Achieved a better mean of 80.5!
+Episode: 160 | Episode reward: 262.0 | Mean of last 100 episodes: 83.0 | eps: 0.001
+Achieved a better mean of 83.0!
+Episode: 161 | Episode reward: 232.0 | Mean of last 100 episodes: 85.2 | eps: 0.001
+Achieved a better mean of 85.2!
+Episode: 162 | Episode reward: 265.0 | Mean of last 100 episodes: 87.7 | eps: 0.001
+Achieved a better mean of 87.7!
+Episode: 163 | Episode reward: 187.0 | Mean of last 100 episodes: 89.5 | eps: 0.001
+Achieved a better mean of 89.5!
+Episode: 164 | Episode reward: 181.0 | Mean of last 100 episodes: 91.1 | eps: 0.001
+Achieved a better mean of 91.1!
+Episode: 165 | Episode reward: 206.0 | Mean of last 100 episodes: 93.1 | eps: 0.001
+Achieved a better mean of 93.1!
+Episode: 166 | Episode reward: 163.0 | Mean of last 100 episodes: 94.6 | eps: 0.001
+Achieved a better mean of 94.6!
+Episode: 167 | Episode reward: 160.0 | Mean of last 100 episodes: 96.1 | eps: 0.001
+Achieved a better mean of 96.1!
+Episode: 168 | Episode reward: 300.0 | Mean of last 100 episodes: 98.9 | eps: 0.001
+Achieved a better mean of 98.9!
+Episode: 169 | Episode reward: 165.0 | Mean of last 100 episodes: 100.4 | eps: 0.001
+Achieved a better mean of 100.4!
+Episode: 170 | Episode reward: 188.0 | Mean of last 100 episodes: 102.2 | eps: 0.001
+Achieved a better mean of 102.2!
+Episode: 171 | Episode reward: 158.0 | Mean of last 100 episodes: 103.7 | eps: 0.001
+Achieved a better mean of 103.7!
+Episode: 172 | Episode reward: 163.0 | Mean of last 100 episodes: 105.2 | eps: 0.001
+Achieved a better mean of 105.2!
+Episode: 173 | Episode reward: 210.0 | Mean of last 100 episodes: 107.1 | eps: 0.001
+Achieved a better mean of 107.1!
+Episode: 174 | Episode reward: 203.0 | Mean of last 100 episodes: 109.1 | eps: 0.001
+Achieved a better mean of 109.1!
+Episode: 175 | Episode reward: 162.0 | Mean of last 100 episodes: 110.6 | eps: 0.001
+Achieved a better mean of 110.6!
+Episode: 176 | Episode reward: 191.0 | Mean of last 100 episodes: 112.3 | eps: 0.001
+Achieved a better mean of 112.3!
+Episode: 177 | Episode reward: 220.0 | Mean of last 100 episodes: 114.4 | eps: 0.001
+Achieved a better mean of 114.4!
+Episode: 178 | Episode reward: 228.0 | Mean of last 100 episodes: 116.6 | eps: 0.001
+Achieved a better mean of 116.6!
+Episode: 179 | Episode reward: 253.0 | Mean of last 100 episodes: 119.0 | eps: 0.001
+Achieved a better mean of 119.0!
+Episode: 180 | Episode reward: 183.0 | Mean of last 100 episodes: 120.6 | eps: 0.001
+Achieved a better mean of 120.6!
+Episode: 181 | Episode reward: 175.0 | Mean of last 100 episodes: 122.3 | eps: 0.001
+Achieved a better mean of 122.3!
+Episode: 182 | Episode reward: 121.0 | Mean of last 100 episodes: 123.4 | eps: 0.001
+Achieved a better mean of 123.4!
+Episode: 183 | Episode reward: 189.0 | Mean of last 100 episodes: 125.1 | eps: 0.001
+Achieved a better mean of 125.1!
+Episode: 184 | Episode reward: 171.0 | Mean of last 100 episodes: 126.7 | eps: 0.001
+Achieved a better mean of 126.7!
+Episode: 185 | Episode reward: 172.0 | Mean of last 100 episodes: 128.3 | eps: 0.001
+Achieved a better mean of 128.3!
+Episode: 186 | Episode reward: 188.0 | Mean of last 100 episodes: 130.0 | eps: 0.001
+Achieved a better mean of 130.0!
+Episode: 187 | Episode reward: 158.0 | Mean of last 100 episodes: 131.5 | eps: 0.001
+Achieved a better mean of 131.5!
+Episode: 188 | Episode reward: 159.0 | Mean of last 100 episodes: 133.0 | eps: 0.001
+Achieved a better mean of 133.0!
+Episode: 189 | Episode reward: 206.0 | Mean of last 100 episodes: 134.9 | eps: 0.001
+Achieved a better mean of 134.9!
+Episode: 190 | Episode reward: 248.0 | Mean of last 100 episodes: 137.2 | eps: 0.001
+Achieved a better mean of 137.2!
+Episode: 191 | Episode reward: 180.0 | Mean of last 100 episodes: 138.7 | eps: 0.001
+Achieved a better mean of 138.7!
+Episode: 192 | Episode reward: 155.0 | Mean of last 100 episodes: 140.1 | eps: 0.001
+Achieved a better mean of 140.1!
+Episode: 193 | Episode reward: 253.0 | Mean of last 100 episodes: 142.5 | eps: 0.001
+Achieved a better mean of 142.5!
+Episode: 194 | Episode reward: 131.0 | Mean of last 100 episodes: 143.7 | eps: 0.001
+Achieved a better mean of 143.7!
+Episode: 195 | Episode reward: 148.0 | Mean of last 100 episodes: 145.0 | eps: 0.001
+Achieved a better mean of 145.0!
+Episode: 196 | Episode reward: 240.0 | Mean of last 100 episodes: 147.2 | eps: 0.001
+Achieved a better mean of 147.2!
+Episode: 197 | Episode reward: 178.0 | Mean of last 100 episodes: 148.8 | eps: 0.001
+Achieved a better mean of 148.8!
+Episode: 198 | Episode reward: 199.0 | Mean of last 100 episodes: 150.6 | eps: 0.001
+Achieved a better mean of 150.6!
+Episode: 199 | Episode reward: 178.0 | Mean of last 100 episodes: 152.3 | eps: 0.001
+Achieved a better mean of 152.3!
+Episode: 200 | Episode reward: 143.0 | Mean of last 100 episodes: 153.4 | eps: 0.001
+Achieved a better mean of 153.4!
+Episode: 201 | Episode reward: 153.0 | Mean of last 100 episodes: 154.6 | eps: 0.001
+Achieved a better mean of 154.6!
+Episode: 202 | Episode reward: 139.0 | Mean of last 100 episodes: 155.7 | eps: 0.001
+Achieved a better mean of 155.7!
+Episode: 203 | Episode reward: 145.0 | Mean of last 100 episodes: 157.1 | eps: 0.001
+Achieved a better mean of 157.1!
+Episode: 204 | Episode reward: 169.0 | Mean of last 100 episodes: 158.4 | eps: 0.001
+Achieved a better mean of 158.4!
+Episode: 205 | Episode reward: 183.0 | Mean of last 100 episodes: 159.9 | eps: 0.001
+Achieved a better mean of 159.9!
+Episode: 206 | Episode reward: 168.0 | Mean of last 100 episodes: 161.4 | eps: 0.001
+Achieved a better mean of 161.4!
+Episode: 207 | Episode reward: 212.0 | Mean of last 100 episodes: 163.2 | eps: 0.001
+Achieved a better mean of 163.2!
+Episode: 208 | Episode reward: 215.0 | Mean of last 100 episodes: 165.1 | eps: 0.001
+Achieved a better mean of 165.1!
+Episode: 209 | Episode reward: 161.0 | Mean of last 100 episodes: 166.2 | eps: 0.001
+Achieved a better mean of 166.2!
+Episode: 210 | Episode reward: 144.0 | Mean of last 100 episodes: 167.4 | eps: 0.001
+Achieved a better mean of 167.4!
+Episode: 211 | Episode reward: 180.0 | Mean of last 100 episodes: 168.8 | eps: 0.001
+Achieved a better mean of 168.8!
+Episode: 212 | Episode reward: 164.0 | Mean of last 100 episodes: 170.2 | eps: 0.001
+Achieved a better mean of 170.2!
+Episode: 213 | Episode reward: 183.0 | Mean of last 100 episodes: 171.5 | eps: 0.001
+Achieved a better mean of 171.5!
+Episode: 214 | Episode reward: 158.0 | Mean of last 100 episodes: 172.6 | eps: 0.001
+Achieved a better mean of 172.6!
+Episode: 215 | Episode reward: 149.0 | Mean of last 100 episodes: 172.9 | eps: 0.001
+Achieved a better mean of 172.9!
+Episode: 216 | Episode reward: 160.0 | Mean of last 100 episodes: 174.1 | eps: 0.001
+Achieved a better mean of 174.1!
+Episode: 217 | Episode reward: 194.0 | Mean of last 100 episodes: 175.6 | eps: 0.001
+Achieved a better mean of 175.6!
+Episode: 218 | Episode reward: 151.0 | Mean of last 100 episodes: 176.4 | eps: 0.001
+Achieved a better mean of 176.4!
+Episode: 219 | Episode reward: 171.0 | Mean of last 100 episodes: 176.7 | eps: 0.001
+Achieved a better mean of 176.7!
+Episode: 220 | Episode reward: 163.0 | Mean of last 100 episodes: 177.7 | eps: 0.001
+Achieved a better mean of 177.7!
+Episode: 221 | Episode reward: 158.0 | Mean of last 100 episodes: 178.9 | eps: 0.001
+Achieved a better mean of 178.9!
+Episode: 222 | Episode reward: 126.0 | Mean of last 100 episodes: 178.1 | eps: 0.001
+Episode: 223 | Episode reward: 192.0 | Mean of last 100 episodes: 179.1 | eps: 0.001
+Achieved a better mean of 179.1!
+Episode: 224 | Episode reward: 161.0 | Mean of last 100 episodes: 179.3 | eps: 0.001
+Achieved a better mean of 179.3!
+Episode: 225 | Episode reward: 175.0 | Mean of last 100 episodes: 179.9 | eps: 0.001
+Achieved a better mean of 179.9!
+Episode: 226 | Episode reward: 146.0 | Mean of last 100 episodes: 180.2 | eps: 0.001
+Achieved a better mean of 180.2!
+Episode: 227 | Episode reward: 164.0 | Mean of last 100 episodes: 180.1 | eps: 0.001
+Episode: 228 | Episode reward: 177.0 | Mean of last 100 episodes: 180.6 | eps: 0.001
+Achieved a better mean of 180.6!
+Episode: 229 | Episode reward: 158.0 | Mean of last 100 episodes: 181.1 | eps: 0.001
+Achieved a better mean of 181.1!
+Episode: 230 | Episode reward: 145.0 | Mean of last 100 episodes: 181.9 | eps: 0.001
+Achieved a better mean of 181.9!
+Episode: 231 | Episode reward: 187.0 | Mean of last 100 episodes: 182.7 | eps: 0.001
+Achieved a better mean of 182.7!
+Episode: 232 | Episode reward: 198.0 | Mean of last 100 episodes: 183.5 | eps: 0.001
+Achieved a better mean of 183.5!
+Episode: 233 | Episode reward: 152.0 | Mean of last 100 episodes: 183.9 | eps: 0.001
+Achieved a better mean of 183.9!
+Episode: 234 | Episode reward: 120.0 | Mean of last 100 episodes: 184.1 | eps: 0.001
+Achieved a better mean of 184.1!
+Episode: 235 | Episode reward: 154.0 | Mean of last 100 episodes: 183.7 | eps: 0.001
+Episode: 236 | Episode reward: 186.0 | Mean of last 100 episodes: 184.2 | eps: 0.001
+Achieved a better mean of 184.2!
+Episode: 237 | Episode reward: 164.0 | Mean of last 100 episodes: 184.3 | eps: 0.001
+Achieved a better mean of 184.3!
+Episode: 238 | Episode reward: 165.0 | Mean of last 100 episodes: 184.6 | eps: 0.001
+Achieved a better mean of 184.6!
+Episode: 239 | Episode reward: 149.0 | Mean of last 100 episodes: 184.6 | eps: 0.001
+Episode: 240 | Episode reward: 157.0 | Mean of last 100 episodes: 185.6 | eps: 0.001
+Achieved a better mean of 185.6!
+Episode: 241 | Episode reward: 148.0 | Mean of last 100 episodes: 185.0 | eps: 0.001
+Episode: 242 | Episode reward: 194.0 | Mean of last 100 episodes: 183.7 | eps: 0.001
+Episode: 243 | Episode reward: 149.0 | Mean of last 100 episodes: 182.3 | eps: 0.001
+Episode: 244 | Episode reward: 190.0 | Mean of last 100 episodes: 182.5 | eps: 0.001
+Episode: 245 | Episode reward: 215.0 | Mean of last 100 episodes: 182.8 | eps: 0.001
+Episode: 246 | Episode reward: 157.0 | Mean of last 100 episodes: 181.8 | eps: 0.001
+Episode: 247 | Episode reward: 231.0 | Mean of last 100 episodes: 181.8 | eps: 0.001
+Episode: 248 | Episode reward: 175.0 | Mean of last 100 episodes: 181.4 | eps: 0.001
+Episode: 249 | Episode reward: 171.0 | Mean of last 100 episodes: 181.5 | eps: 0.001
+Episode: 250 | Episode reward: 164.0 | Mean of last 100 episodes: 180.6 | eps: 0.001
+Episode: 251 | Episode reward: 193.0 | Mean of last 100 episodes: 180.3 | eps: 0.001
+Episode: 252 | Episode reward: 161.0 | Mean of last 100 episodes: 179.6 | eps: 0.001
+Episode: 253 | Episode reward: 159.0 | Mean of last 100 episodes: 179.5 | eps: 0.001
+Episode: 254 | Episode reward: 152.0 | Mean of last 100 episodes: 179.7 | eps: 0.001
+Episode: 255 | Episode reward: 224.0 | Mean of last 100 episodes: 180.5 | eps: 0.001
+Episode: 256 | Episode reward: 163.0 | Mean of last 100 episodes: 179.5 | eps: 0.001
+Episode: 257 | Episode reward: 184.0 | Mean of last 100 episodes: 178.7 | eps: 0.001
+Episode: 258 | Episode reward: 188.0 | Mean of last 100 episodes: 178.9 | eps: 0.001
+Episode: 259 | Episode reward: 176.0 | Mean of last 100 episodes: 178.6 | eps: 0.001
+Episode: 260 | Episode reward: 180.0 | Mean of last 100 episodes: 177.8 | eps: 0.001
+Episode: 261 | Episode reward: 156.0 | Mean of last 100 episodes: 177.0 | eps: 0.001
+Episode: 262 | Episode reward: 178.0 | Mean of last 100 episodes: 176.2 | eps: 0.001
+Episode: 263 | Episode reward: 171.0 | Mean of last 100 episodes: 176.0 | eps: 0.001
+Episode: 264 | Episode reward: 168.0 | Mean of last 100 episodes: 175.9 | eps: 0.001
+Episode: 265 | Episode reward: 145.0 | Mean of last 100 episodes: 175.3 | eps: 0.001
+Episode: 266 | Episode reward: 200.0 | Mean of last 100 episodes: 175.6 | eps: 0.001
+Episode: 267 | Episode reward: 176.0 | Mean of last 100 episodes: 175.8 | eps: 0.001
+Episode: 268 | Episode reward: 147.0 | Mean of last 100 episodes: 174.3 | eps: 0.001
+Episode: 269 | Episode reward: 185.0 | Mean of last 100 episodes: 174.5 | eps: 0.001
+Episode: 270 | Episode reward: 189.0 | Mean of last 100 episodes: 174.5 | eps: 0.001
+Episode: 271 | Episode reward: 176.0 | Mean of last 100 episodes: 174.7 | eps: 0.001
+Episode: 272 | Episode reward: 143.0 | Mean of last 100 episodes: 174.5 | eps: 0.001
+Episode: 273 | Episode reward: 179.0 | Mean of last 100 episodes: 174.2 | eps: 0.001
+Episode: 274 | Episode reward: 173.0 | Mean of last 100 episodes: 173.8 | eps: 0.001
+Episode: 275 | Episode reward: 203.0 | Mean of last 100 episodes: 174.3 | eps: 0.001
+Episode: 276 | Episode reward: 223.0 | Mean of last 100 episodes: 174.6 | eps: 0.001
+Episode: 277 | Episode reward: 243.0 | Mean of last 100 episodes: 174.8 | eps: 0.001
+Episode: 278 | Episode reward: 227.0 | Mean of last 100 episodes: 174.8 | eps: 0.001
+Episode: 279 | Episode reward: 198.0 | Mean of last 100 episodes: 174.2 | eps: 0.001
+Episode: 280 | Episode reward: 500.0 | Mean of last 100 episodes: 177.4 | eps: 0.001
+Acheived the max score possible for an episode!
+Episode: 281 | Episode reward: 198.0 | Mean of last 100 episodes: 177.6 | eps: 0.001
+Episode: 282 | Episode reward: 237.0 | Mean of last 100 episodes: 178.8 | eps: 0.001
+Episode: 283 | Episode reward: 215.0 | Mean of last 100 episodes: 179.1 | eps: 0.001
+Episode: 284 | Episode reward: 202.0 | Mean of last 100 episodes: 179.4 | eps: 0.001
+Episode: 285 | Episode reward: 209.0 | Mean of last 100 episodes: 179.8 | eps: 0.001
+Episode: 286 | Episode reward: 231.0 | Mean of last 100 episodes: 180.2 | eps: 0.001
+Episode: 287 | Episode reward: 500.0 | Mean of last 100 episodes: 183.6 | eps: 0.001
+Episode: 288 | Episode reward: 500.0 | Mean of last 100 episodes: 187.0 | eps: 0.001
+Achieved a better mean of 187.0!
+Episode: 289 | Episode reward: 446.0 | Mean of last 100 episodes: 189.4 | eps: 0.001
+Achieved a better mean of 189.4!
+Episode: 290 | Episode reward: 498.0 | Mean of last 100 episodes: 191.9 | eps: 0.001
+Achieved a better mean of 191.9!
+Episode: 291 | Episode reward: 466.0 | Mean of last 100 episodes: 194.8 | eps: 0.001
+Achieved a better mean of 194.8!
+Episode: 292 | Episode reward: 257.0 | Mean of last 100 episodes: 195.8 | eps: 0.001
+Achieved a better mean of 195.8!
+Episode: 293 | Episode reward: 500.0 | Mean of last 100 episodes: 198.3 | eps: 0.001
+Achieved a better mean of 198.3!
+Episode: 294 | Episode reward: 500.0 | Mean of last 100 episodes: 202.0 | eps: 0.001
+Achieved a better mean of 202.0!
+Episode: 295 | Episode reward: 500.0 | Mean of last 100 episodes: 205.5 | eps: 0.001
+Achieved a better mean of 205.5!
+Episode: 296 | Episode reward: 500.0 | Mean of last 100 episodes: 208.1 | eps: 0.001
+Achieved a better mean of 208.1!
+Episode: 297 | Episode reward: 500.0 | Mean of last 100 episodes: 211.3 | eps: 0.001
+Achieved a better mean of 211.3!
+Episode: 298 | Episode reward: 500.0 | Mean of last 100 episodes: 214.3 | eps: 0.001
+Achieved a better mean of 214.3!
+Episode: 299 | Episode reward: 500.0 | Mean of last 100 episodes: 217.5 | eps: 0.001
+Achieved a better mean of 217.5!
+Episode: 300 | Episode reward: 500.0 | Mean of last 100 episodes: 221.1 | eps: 0.001
+Achieved a better mean of 221.1!
+Episode: 301 | Episode reward: 500.0 | Mean of last 100 episodes: 224.6 | eps: 0.001
+Achieved a better mean of 224.6!
+Episode: 302 | Episode reward: 500.0 | Mean of last 100 episodes: 228.2 | eps: 0.001
+Achieved a better mean of 228.2!
+Episode: 303 | Episode reward: 500.0 | Mean of last 100 episodes: 231.7 | eps: 0.001
+Achieved a better mean of 231.7!
+Episode: 304 | Episode reward: 500.0 | Mean of last 100 episodes: 235.0 | eps: 0.001
+Achieved a better mean of 235.0!
+Episode: 305 | Episode reward: 500.0 | Mean of last 100 episodes: 238.2 | eps: 0.001
+Achieved a better mean of 238.2!
+Episode: 306 | Episode reward: 500.0 | Mean of last 100 episodes: 241.5 | eps: 0.001
+Achieved a better mean of 241.5!
+Episode: 307 | Episode reward: 500.0 | Mean of last 100 episodes: 244.4 | eps: 0.001
+Achieved a better mean of 244.4!
+Episode: 308 | Episode reward: 500.0 | Mean of last 100 episodes: 247.2 | eps: 0.001
+Achieved a better mean of 247.2!
+Episode: 309 | Episode reward: 500.0 | Mean of last 100 episodes: 250.6 | eps: 0.001
+Achieved a better mean of 250.6!
+Episode: 310 | Episode reward: 500.0 | Mean of last 100 episodes: 254.2 | eps: 0.001
+Achieved a better mean of 254.2!
+Episode: 311 | Episode reward: 500.0 | Mean of last 100 episodes: 257.4 | eps: 0.001
+Achieved a better mean of 257.4!
+Episode: 312 | Episode reward: 500.0 | Mean of last 100 episodes: 260.8 | eps: 0.001
+Achieved a better mean of 260.8!
+Episode: 313 | Episode reward: 500.0 | Mean of last 100 episodes: 263.9 | eps: 0.001
+Achieved a better mean of 263.9!
+Episode: 314 | Episode reward: 500.0 | Mean of last 100 episodes: 267.4 | eps: 0.001
+Achieved a better mean of 267.4!
+Episode: 315 | Episode reward: 500.0 | Mean of last 100 episodes: 270.9 | eps: 0.001
+Achieved a better mean of 270.9!
+Episode: 316 | Episode reward: 500.0 | Mean of last 100 episodes: 274.3 | eps: 0.001
+Achieved a better mean of 274.3!
+Episode: 317 | Episode reward: 500.0 | Mean of last 100 episodes: 277.3 | eps: 0.001
+Achieved a better mean of 277.3!
+Episode: 318 | Episode reward: 500.0 | Mean of last 100 episodes: 280.8 | eps: 0.001
+Achieved a better mean of 280.8!
+Episode: 319 | Episode reward: 500.0 | Mean of last 100 episodes: 284.1 | eps: 0.001
+Achieved a better mean of 284.1!
+Episode: 320 | Episode reward: 500.0 | Mean of last 100 episodes: 287.5 | eps: 0.001
+Achieved a better mean of 287.5!
+Episode: 321 | Episode reward: 500.0 | Mean of last 100 episodes: 290.9 | eps: 0.001
+Achieved a better mean of 290.9!
+Episode: 322 | Episode reward: 500.0 | Mean of last 100 episodes: 294.6 | eps: 0.001
+Achieved a better mean of 294.6!
+Episode: 323 | Episode reward: 472.0 | Mean of last 100 episodes: 297.4 | eps: 0.001
+Achieved a better mean of 297.4!
+Episode: 324 | Episode reward: 500.0 | Mean of last 100 episodes: 300.8 | eps: 0.001
+Achieved a better mean of 300.8!
+Episode: 325 | Episode reward: 500.0 | Mean of last 100 episodes: 304.1 | eps: 0.001
+Achieved a better mean of 304.1!
+Episode: 326 | Episode reward: 500.0 | Mean of last 100 episodes: 307.6 | eps: 0.001
+Achieved a better mean of 307.6!
+Episode: 327 | Episode reward: 500.0 | Mean of last 100 episodes: 311.0 | eps: 0.001
+Achieved a better mean of 311.0!
+Episode: 328 | Episode reward: 500.0 | Mean of last 100 episodes: 314.2 | eps: 0.001
+Achieved a better mean of 314.2!
+Episode: 329 | Episode reward: 500.0 | Mean of last 100 episodes: 317.6 | eps: 0.001
+Achieved a better mean of 317.6!
+Episode: 330 | Episode reward: 500.0 | Mean of last 100 episodes: 321.2 | eps: 0.001
+Achieved a better mean of 321.2!
+Episode: 331 | Episode reward: 500.0 | Mean of last 100 episodes: 324.3 | eps: 0.001
+Achieved a better mean of 324.3!
+Episode: 332 | Episode reward: 500.0 | Mean of last 100 episodes: 327.3 | eps: 0.001
+Achieved a better mean of 327.3!
+Episode: 333 | Episode reward: 500.0 | Mean of last 100 episodes: 330.8 | eps: 0.001
+Achieved a better mean of 330.8!
+Episode: 334 | Episode reward: 500.0 | Mean of last 100 episodes: 334.6 | eps: 0.001
+Achieved a better mean of 334.6!
+Episode: 335 | Episode reward: 500.0 | Mean of last 100 episodes: 338.1 | eps: 0.001
+Achieved a better mean of 338.1!
+Episode: 336 | Episode reward: 500.0 | Mean of last 100 episodes: 341.2 | eps: 0.001
+Achieved a better mean of 341.2!
+Episode: 337 | Episode reward: 500.0 | Mean of last 100 episodes: 344.6 | eps: 0.001
+Achieved a better mean of 344.6!
+Episode: 338 | Episode reward: 500.0 | Mean of last 100 episodes: 347.9 | eps: 0.001
+Achieved a better mean of 347.9!
+Episode: 339 | Episode reward: 500.0 | Mean of last 100 episodes: 351.4 | eps: 0.001
+Achieved a better mean of 351.4!
+Episode: 340 | Episode reward: 500.0 | Mean of last 100 episodes: 354.8 | eps: 0.001
+Achieved a better mean of 354.8!
+Episode: 341 | Episode reward: 500.0 | Mean of last 100 episodes: 358.4 | eps: 0.001
+Achieved a better mean of 358.4!
+Episode: 342 | Episode reward: 500.0 | Mean of last 100 episodes: 361.4 | eps: 0.001
+Achieved a better mean of 361.4!
+Episode: 343 | Episode reward: 500.0 | Mean of last 100 episodes: 364.9 | eps: 0.001
+Achieved a better mean of 364.9!
+Episode: 344 | Episode reward: 500.0 | Mean of last 100 episodes: 368.0 | eps: 0.001
+Achieved a better mean of 368.0!
+Episode: 345 | Episode reward: 500.0 | Mean of last 100 episodes: 370.9 | eps: 0.001
+Achieved a better mean of 370.9!
+Episode: 346 | Episode reward: 500.0 | Mean of last 100 episodes: 374.3 | eps: 0.001
+Achieved a better mean of 374.3!
+Episode: 347 | Episode reward: 500.0 | Mean of last 100 episodes: 377.0 | eps: 0.001
+Achieved a better mean of 377.0!
+Episode: 348 | Episode reward: 500.0 | Mean of last 100 episodes: 380.3 | eps: 0.001
+Achieved a better mean of 380.3!
+Episode: 349 | Episode reward: 500.0 | Mean of last 100 episodes: 383.6 | eps: 0.001
+Achieved a better mean of 383.6!
+Episode: 350 | Episode reward: 500.0 | Mean of last 100 episodes: 386.9 | eps: 0.001
+Achieved a better mean of 386.9!
+Episode: 351 | Episode reward: 500.0 | Mean of last 100 episodes: 390.0 | eps: 0.001
+Achieved a better mean of 390.0!
+Episode: 352 | Episode reward: 500.0 | Mean of last 100 episodes: 393.4 | eps: 0.001
+Achieved a better mean of 393.4!
+Episode: 353 | Episode reward: 500.0 | Mean of last 100 episodes: 396.8 | eps: 0.001
+Achieved a better mean of 396.8!
+Episode: 354 | Episode reward: 500.0 | Mean of last 100 episodes: 400.3 | eps: 0.001
+Achieved a better mean of 400.3!
+Episode: 355 | Episode reward: 500.0 | Mean of last 100 episodes: 403.0 | eps: 0.001
+Achieved a better mean of 403.0!
+Episode: 356 | Episode reward: 500.0 | Mean of last 100 episodes: 406.4 | eps: 0.001
+Achieved a better mean of 406.4!
+Episode: 357 | Episode reward: 500.0 | Mean of last 100 episodes: 409.6 | eps: 0.001
+Achieved a better mean of 409.6!
+Episode: 358 | Episode reward: 500.0 | Mean of last 100 episodes: 412.7 | eps: 0.001
+Achieved a better mean of 412.7!
+Episode: 359 | Episode reward: 500.0 | Mean of last 100 episodes: 415.9 | eps: 0.001
+Achieved a better mean of 415.9!
+Episode: 360 | Episode reward: 500.0 | Mean of last 100 episodes: 419.1 | eps: 0.001
+Achieved a better mean of 419.1!
+Episode: 361 | Episode reward: 500.0 | Mean of last 100 episodes: 422.6 | eps: 0.001
+Achieved a better mean of 422.6!
+Episode: 362 | Episode reward: 500.0 | Mean of last 100 episodes: 425.8 | eps: 0.001
+Achieved a better mean of 425.8!
+Episode: 363 | Episode reward: 500.0 | Mean of last 100 episodes: 429.1 | eps: 0.001
+Achieved a better mean of 429.1!
+Episode: 364 | Episode reward: 500.0 | Mean of last 100 episodes: 432.4 | eps: 0.001
+Achieved a better mean of 432.4!
+Episode: 365 | Episode reward: 500.0 | Mean of last 100 episodes: 435.9 | eps: 0.001
+Achieved a better mean of 435.9!
+Episode: 366 | Episode reward: 500.0 | Mean of last 100 episodes: 438.9 | eps: 0.001
+Achieved a better mean of 438.9!
+Episode: 367 | Episode reward: 500.0 | Mean of last 100 episodes: 442.2 | eps: 0.001
+Achieved a better mean of 442.2!
+Episode: 368 | Episode reward: 500.0 | Mean of last 100 episodes: 445.7 | eps: 0.001
+Achieved a better mean of 445.7!
+Episode: 369 | Episode reward: 500.0 | Mean of last 100 episodes: 448.8 | eps: 0.001
+Achieved a better mean of 448.8!
+Episode: 370 | Episode reward: 500.0 | Mean of last 100 episodes: 452.0 | eps: 0.001
+Achieved a better mean of 452.0!
+Episode: 371 | Episode reward: 500.0 | Mean of last 100 episodes: 455.2 | eps: 0.001
+Achieved a better mean of 455.2!
+Episode: 372 | Episode reward: 500.0 | Mean of last 100 episodes: 458.8 | eps: 0.001
+Achieved a better mean of 458.8!
+Episode: 373 | Episode reward: 500.0 | Mean of last 100 episodes: 462.0 | eps: 0.001
+Achieved a better mean of 462.0!
+Episode: 374 | Episode reward: 500.0 | Mean of last 100 episodes: 465.2 | eps: 0.001
+Achieved a better mean of 465.2!
+Episode: 375 | Episode reward: 500.0 | Mean of last 100 episodes: 468.2 | eps: 0.001
+Achieved a better mean of 468.2!
+Episode: 376 | Episode reward: 500.0 | Mean of last 100 episodes: 471.0 | eps: 0.001
+Achieved a better mean of 471.0!
+Episode: 377 | Episode reward: 500.0 | Mean of last 100 episodes: 473.6 | eps: 0.001
+Achieved a better mean of 473.6!
+Episode: 378 | Episode reward: 500.0 | Mean of last 100 episodes: 476.3 | eps: 0.001
+Achieved a better mean of 476.3!
+Episode: 379 | Episode reward: 500.0 | Mean of last 100 episodes: 479.3 | eps: 0.001
+Achieved a better mean of 479.3!
+Episode: 380 | Episode reward: 500.0 | Mean of last 100 episodes: 479.3 | eps: 0.001
+Episode: 381 | Episode reward: 500.0 | Mean of last 100 episodes: 482.3 | eps: 0.001
+Achieved a better mean of 482.3!
+Episode: 382 | Episode reward: 341.0 | Mean of last 100 episodes: 483.4 | eps: 0.001
+Achieved a better mean of 483.4!
+Episode: 383 | Episode reward: 500.0 | Mean of last 100 episodes: 486.2 | eps: 0.001
+Achieved a better mean of 486.2!
+Episode: 384 | Episode reward: 500.0 | Mean of last 100 episodes: 489.2 | eps: 0.001
+Achieved a better mean of 489.2!
+Episode: 385 | Episode reward: 500.0 | Mean of last 100 episodes: 492.1 | eps: 0.001
+Achieved a better mean of 492.1!
+Episode: 386 | Episode reward: 500.0 | Mean of last 100 episodes: 494.8 | eps: 0.001
+Achieved a better mean of 494.8!
+Episode: 387 | Episode reward: 500.0 | Mean of last 100 episodes: 494.8 | eps: 0.001
+Episode: 388 | Episode reward: 385.0 | Mean of last 100 episodes: 493.6 | eps: 0.001
+Episode: 389 | Episode reward: 500.0 | Mean of last 100 episodes: 494.2 | eps: 0.001
+Episode: 390 | Episode reward: 500.0 | Mean of last 100 episodes: 494.2 | eps: 0.001
+Episode: 391 | Episode reward: 500.0 | Mean of last 100 episodes: 494.6 | eps: 0.001
+Episode: 392 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Achieved a better mean of 497.0!
+Episode: 393 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 394 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 395 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 396 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 397 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 398 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 399 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 400 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 401 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 402 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 403 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 404 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 405 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 406 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 407 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 408 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 409 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 410 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 411 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 412 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 413 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 414 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 415 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 416 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 417 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 418 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 419 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 420 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 421 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 422 | Episode reward: 500.0 | Mean of last 100 episodes: 497.0 | eps: 0.001
+Episode: 423 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Achieved a better mean of 497.3!
+Episode: 424 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 425 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 426 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 427 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 428 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 429 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 430 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 431 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 432 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 433 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 434 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 435 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 436 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 437 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 438 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 439 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 440 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 441 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 442 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 443 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 444 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 445 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 446 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 447 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 448 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 449 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 450 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 451 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 452 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 453 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 454 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 455 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 456 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 457 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 458 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 459 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 460 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 461 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 462 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 463 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 464 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 465 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 466 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 467 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 468 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 469 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 470 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 471 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 472 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 473 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 474 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 475 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 476 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 477 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 478 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 479 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 480 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 481 | Episode reward: 500.0 | Mean of last 100 episodes: 497.3 | eps: 0.001
+Episode: 482 | Episode reward: 500.0 | Mean of last 100 episodes: 498.8 | eps: 0.001
+Achieved a better mean of 498.8!
+Episode: 483 | Episode reward: 500.0 | Mean of last 100 episodes: 498.8 | eps: 0.001
+Episode: 484 | Episode reward: 500.0 | Mean of last 100 episodes: 498.8 | eps: 0.001
+Episode: 485 | Episode reward: 500.0 | Mean of last 100 episodes: 498.8 | eps: 0.001
+Episode: 486 | Episode reward: 500.0 | Mean of last 100 episodes: 498.8 | eps: 0.001
+Episode: 487 | Episode reward: 500.0 | Mean of last 100 episodes: 498.8 | eps: 0.001
+Episode: 488 | Episode reward: 500.0 | Mean of last 100 episodes: 500.0 | eps: 0.001
+Achieved a better mean of 500.0!
+Achieved mean score equal to 500 in the last 100 episodes!
