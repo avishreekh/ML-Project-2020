@@ -18,7 +18,7 @@ A detailed report of the approaches and results can be found in the `Results` fo
 ## Results
 The best result was obtained using DDQN with soft update. We could achieve a perfect score on all the environments using a neural network with 2 layers with 4 neurons each.
 
-A detailed report of the approaches and results can be found in the `Results` folder.
+A detailed report of the approaches and results can be found in the `Results` folder. The training and evaluation plots can be found in the `Plots` folder.
 
 ## Technical specifications
 The notebooks are written in Python3 and use the following major libraries/frameworks:
